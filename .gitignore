@@ -1,0 +1,14 @@
+.vs/
+.Library/
+.Logs/
+.obj/
+.Packages/
+.ProjectSettings/
+.Temp/
+.Assets/Asset Packs/
+.Assets/Standard Assets/
+
+
+
+*.csproj
+*.asset
